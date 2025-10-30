@@ -1,5 +1,5 @@
 Hullo! :wave:
-<img src="TT.jpg" align="right" width="225" style="margin-left: 10;" />
+<img src="TT.jpg" align="right" width="300" style="margin-left: 10;" />
 
 I'm a Senior Engineering Manager at [Polycam](https://poly.cam) where I manage the Polykit team which is responsible for our 3D rendering, geometric algorithms, and core C++ library.
 
