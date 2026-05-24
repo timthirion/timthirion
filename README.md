@@ -1,6 +1,6 @@
 ## Hi, I'm Tim :wave:
 
-**📍 Carrboro, NC | 🏢 Senior Engineering Manager at [Polycam](https://poly.cam)**
+**📍 Chapel Hill, NC | 🏢 Senior Engineering Manager at [Polycam](https://poly.cam)**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -15,7 +15,7 @@
 ![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat&logo=vulkan&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
-> Engineering @ Polycam, building cutting-edge 3D capture technology. ViBeCoDinG my favorites in my spare time—rendering, geometry, and physics!
+> Engineering @ Polycam, building cutting-edge 3D capture technology. Building and researching with AI in my spare time—rendering, geometry, and physics!
 
 I manage the Polykit team which is responsible for 3D rendering, geometric algorithms, and our core C++ library. I'm a seasoned software developer with a diverse background in computer graphics, scientific visualization, and medical imaging.
 
